@@ -29,6 +29,29 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Data Fetching
+
+1. Server Side Rendering (SSR)
+2. Static Site Generation (SSG)
+3. Incremental Static Generation (ISR)
+
+## JSON Data Mocking
+
+- https://jsonplaceholder.typicode.com/
+- https://github.com/typicode/json-server
+- https://mockend.com/
+
+## OOTB API/HTTP Methods:
+
+1. **GET**: Retrieves data or resources from the server.
+1. **POST**: Submits data to the server to create a new resource.
+1. **PUT**: Updates or replaces an existing resource on the server.
+1. **PATCH**: Partially updates an existing resource on the server.
+1. **DELETE**: Removes a specific resource from the server.
+1. **HEAD**: Retrieves the headers of a resource without fetching its body.
+1. **OPTIONS**: Retrieves the supported HTTP methods and other communication options for a resource.
+
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
